@@ -2,8 +2,8 @@
 //  AppDelegate.h
 //  TestSheetView
 //
-//  Created by Guibin on 15/11/17.
-//  Copyright © 2015年 MobileCare. All rights reserved.
+//  Created by bowen on 15/11/30.
+//  Copyright © 2015年 xxxxxxx. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
