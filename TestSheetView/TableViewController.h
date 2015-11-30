@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  TableViewController.h
 //  TestSheetView
 //
-//  Created by Guibin on 15/11/17.
+//  Created by bowen on 15/11/30.
 //  Copyright © 2015年 MobileCare. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface TableViewController : UITableViewController
 
 @end
-
